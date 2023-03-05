@@ -16,7 +16,7 @@
 [![](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white)]()
 [![](https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=Google%20Scholar&logoColor=white)]()
 
+[![](https://img.shields.io/badge/Minecraft-62B47A?style=for-the-badge&logo=Minecraft&logoColor=white)]()
+
 <img src="https://github-readme-stats.vercel.app/api?username=Shall-We-Dance&show_icons=true&hide=issues&icon_color=5B13EC&hide_border=true&title_color=5B13EC&text_color=555&count_private=true"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shall-We-Dance&hide=TeX&layout=compact&hide_border=true&title_color=5B13EC&text_color=555">
 
-
-[![](https://img.shields.io/badge/Minecraft-62B47A?style=for-the-badge&logo=Minecraft&logoColor=white)]()
