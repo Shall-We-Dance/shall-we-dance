@@ -1,5 +1,3 @@
-## Technologies
-
 [![](https://img.shields.io/badge/R-74ACD6?style=for-the-badge&logo=r&logoColor=white)]()
 [![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)]()
 [![](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)]()
