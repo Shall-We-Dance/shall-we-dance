@@ -1,7 +1,7 @@
 ## Technologies
 
 [![](https://img.shields.io/badge/R-74ACD6?style=for-the-badge&logo=r&logoColor=white)]()
-[![](https://img.shields.io/badge/HTML-74ACD6?style=for-the-badge&logo=html&logoColor=white)]()
+[![](https://img.shields.io/badge/HTML-74ACD6?style=for-the-badge&logo=css&logoColor=white)]()
 [![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)]()
 [![](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)]()
 [![](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)]()
