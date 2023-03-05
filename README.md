@@ -13,4 +13,4 @@
 [![](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white)]()
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=Shall-We-Dance&show_icons=true&hide=issues&icon_color=000000&hide_border=true&title_color=5B13EC&text_color=555&count_private=true"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shall-We-Dance&hide=TeX&layout=compact&hide_border=true&title_color=5B13EC&text_color=555">
+<img src="https://github-readme-stats.vercel.app/api?username=Shall-We-Dance&show_icons=true&hide=issues&icon_color=F8F5FE&hide_border=true&title_color=5B13EC&text_color=555&count_private=true"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shall-We-Dance&hide=TeX&layout=compact&hide_border=true&title_color=5B13EC&text_color=555">
