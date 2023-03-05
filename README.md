@@ -10,6 +10,6 @@
 [![](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)]()
 [![](https://img.shields.io/badge/Windows-0067B8?style=for-the-badge&logo=windows&logoColor=white)]()
 [![](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white)]()
-
+[![](https://img.shields.io/badge/UCSF%20Pi-A22846?style=for-the-badge&logo=ucsf&logoColor=white)]()
 
 <img src="https://github-readme-stats.vercel.app/api?username=Shall-We-Dance&show_icons=true&hide=issues&icon_color=5B13EC&hide_border=true&title_color=5B13EC&text_color=555&count_private=true"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shall-We-Dance&hide=TeX&layout=compact&hide_border=true&title_color=5B13EC&text_color=555">
