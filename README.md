@@ -11,6 +11,7 @@
 [![](https://img.shields.io/badge/AI-FF9A00?&style=for-the-badge&logo=Adobe%20Illustrator&logoColor=white)]()
 [![](https://img.shields.io/badge/Jellyfin-00A4DC?&style=for-the-badge&logo=Jellyfin&logoColor=white)]()
 [![](https://img.shields.io/badge/Cloudflare-F38020?&style=for-the-badge&logo=Cloudflare&logoColor=white)]()
+[![](https://img.shields.io/badge/Overleaf-47A141?&style=for-the-badge&logo=Overleaf&logoColor=white)]()
 [![](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)]()
 [![](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)]()
 [![](https://img.shields.io/badge/Windows-0067B8?style=for-the-badge&logo=windows%2011&logoColor=white)]()
