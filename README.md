@@ -23,5 +23,5 @@
 [![](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=Steam&logoColor=white)]()
 [![](https://img.shields.io/badge/Switch-E60012?style=for-the-badge&logo=Nintendo%20Switch&logoColor=white)]()
 
-<img src="https://github-readme-stats.vercel.app/api?username=Shall-We-Dance&show_icons=true&hide=issues,contributed%20to&icon_color=5B13EC&hide_border=true&title_color=5B13EC&text_color=555&count_private=true"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shall-We-Dance&hide=TeX&layout=compact&hide_border=true&title_color=5B13EC&text_color=555">
+<img src="https://github-readme-stats.vercel.app/api?username=Shall-We-Dance&show_icons=true&hide=issues,contributed&icon_color=5B13EC&hide_border=true&title_color=5B13EC&text_color=555&count_private=true"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shall-We-Dance&hide=TeX&layout=compact&hide_border=true&title_color=5B13EC&text_color=555">
 
