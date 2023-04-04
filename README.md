@@ -24,6 +24,7 @@
 [![](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badge&logo=Bilibili&logoColor=white)](https://github.com/Shall-We-Dance)
 [![](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=Steam&logoColor=white)](https://github.com/Shall-We-Dance)
 [![](https://img.shields.io/badge/Switch-E60012?style=for-the-badge&logo=Nintendo%20Switch&logoColor=white)](https://github.com/Shall-We-Dance)
+[![](https://img.shields.io/badge/Counter_Strike-000000?style=for-the-badge&logo=counter-strike&logoColor=white)](https://github.com/Shall-We-Dance)
 
 ![Visitor Badge](https://komarev.com/ghpvc/?color=8F63E9&username=Shall-We-Dance&style=for-the-badge)
 
