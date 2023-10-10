@@ -34,3 +34,4 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=Shall-We-Dance&show_icons=true&hide=issues,contribs&icon_color=5B13EC&hide_border=true&theme=transparent&title_color=5B13EC&text_color=8F63E9&count_private=true"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shall-We-Dance&hide=TeX&layout=compact&hide_border=true&theme=transparent&title_color=5B13EC&text_color=8F63E9">
 
+<script type="text/javascript" src="//rf.revolvermaps.com/0/0/8.js?i=5sgot2dxrbg&amp;m=0c&amp;c=ff0000&amp;cr1=ffffff&amp;f=calibri&amp;l=49&amp;s=200&amp;cw=ffffff&amp;cb=000000" async="async"></script>
