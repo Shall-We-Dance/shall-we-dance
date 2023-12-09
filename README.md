@@ -55,7 +55,6 @@
 [![](https://img.shields.io/badge/FIMO-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)]()
 
 [![](https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=Google%20Scholar&logoColor=white)](https://scholar.google.com/citations?user=GFkNo_IAAAAJ)
-[![](https://img.shields.io/badge/arXiv-B31B1B?style=for-the-badge&logo=arXiv&logoColor=white)](https://github.com/Shall-We-Dance)
 
 [![](https://img.shields.io/badge/Minecraft-62B47A?style=for-the-badge&logo=Minecraft&logoColor=white)](https://github.com/Shall-We-Dance)
 [![](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badge&logo=Bilibili&logoColor=white)](https://github.com/Shall-We-Dance)
