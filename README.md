@@ -16,4 +16,4 @@
 
 ![Visitor Badge](https://komarev.com/ghpvc/?color=8F63E9&username=Shall-We-Dance&style=for-the-badge)
 
-<img src="https://github-readme-stats.vercel.app/api?username=Shall-We-Dance&show_icons=true&hide=issues,contribs&icon_color=5B13EC&hide_border=true&theme=transparent&title_color=5B13EC&text_color=8F63E9&count_private=true"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shall-We-Dance&hide=TeX&layout=compact&hide_border=true&theme=transparent&title_color=5B13EC&text_color=8F63E9">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shall-We-Dance&hide=TeX&layout=compact&hide_border=true&theme=transparent&title_color=5B13EC&text_color=8F63E9">
